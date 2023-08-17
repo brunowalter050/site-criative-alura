@@ -1,0 +1,22 @@
+ *{
+   margin: 0;
+   padding: 0;
+ }
+ .cabeçalho {
+    background-color: #FF00A8
+    ;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content:space-around ;
+    align-items: center;
+    padding: 32px 0;
+    font-size: 18px;
+ }
+ .cabeçalho-imagem{width: 50px;
+
+ }
+  .cabeçalho-lisda-item{
+   display: inline-block;
+   margin: 0 32px;
+   font-size: 26px;
+  }
